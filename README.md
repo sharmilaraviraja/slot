@@ -97,7 +97,7 @@ Execute the program using runserver command.
            <th><h4>SUBJECT NAME </h4></th>
          </tr>
          <tr>
-            <th>1.</th>
+            <th>1.</th> 
             <td>4S3-1</td>
             <td>PYTHON PROGRAMMING  </td>
          </tr>
