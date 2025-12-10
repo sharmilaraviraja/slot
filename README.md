@@ -25,7 +25,6 @@ Execute the program using runserver command.
 
 ## PROGRAM
 '''
-!DOCTYPE html>
 <html> 
 <head>
     <title>Timetable</title>
@@ -130,6 +129,7 @@ Execute the program using runserver command.
     </body>
 </html>
 ```
+
 
 
 
